@@ -1,0 +1,9 @@
+Language,Methodology,sentiment_accuracy,similarity,bleu_score,mgpt_src_fluency,mgpt_trg_fluency,mgpt_pred_fluency,xlmr_src_fluency,xlmr_trg_fluency,xlmr_pred_fluency,avg
+hi,parallel,79.0,81.5,41.0,9.4,9.4,8.7,31.2,31.2,27.0,67.2
+mr,parallel,64.0,78.0,25.0,9.5,9.5,8.8,107.0,107.0,57.0,55.7
+ml,parallel,72.0,75.0,22.5,4.8,4.8,4.9,28.2,28.2,24.6,56.5
+ur,parallel,69.0,79.5,32.5,33.1,33.1,34.3,231.6,231.6,160.9,60.3
+mag,parallel,69.5,71.0,31.0,36.0,36.0,31.7,1014.2,1014.2,674.1,57.2
+pa,parallel,56.0,76.5,34.0,2.6,2.6,2.6,355.2,355.2,123.4,55.5
+or,parallel,45.5,76.5,25.5,2.2,2.2,2.2,2883.3,2883.3,70621.9,49.2
+te,parallel,52.0,74.0,23.0,6.2,6.2,6.0,560.1,560.1,206.6,49.7
