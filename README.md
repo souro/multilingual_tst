@@ -1,4 +1,4 @@
-# Performance Analysis of LLMs for Text Style Transfer Tasks in English, Hindi, and Bengali
+# Multilingual Text Style Transfer
 
 This repo contains the code and data of the papers: [Multilingual Text Style Transfer: Datasets & Models for Indian Languages](https://aclanthology.org/2024.inlg-main.41/) and [Low-Resource Text Style Transfer for Bangla: Data & Models](https://aclanthology.org/2023.banglalp-1.5/)
 
